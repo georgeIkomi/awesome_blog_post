@@ -13,3 +13,8 @@ Overall, learning how to control margins and paddings and knowing when to apply 
 No download or installation is necessary.
 
 Simply visit [Awesome Blog Post](https://georgeIkomi.github.io/awesome_blog_post/) to see the output of the project.
+
+## Technologies
+
++ HTML
++ CSS
