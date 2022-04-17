@@ -16,6 +16,16 @@ h2 {
     margin: 0px 0px 15px;
 }
 
+a {
+    color: #ff8000;
+    font-weight: bold;
+}
+
+a:hover,
+a:focus {
+    color: #2e7ad3;
+}
+
 .blog-post {
     background-color: #f1f1f1;
     width: 450px;
