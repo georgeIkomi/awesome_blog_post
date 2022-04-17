@@ -12,3 +12,9 @@ h2 {
     font-size: 32px;
     color: #104c98;
 }
+
+.blog-post {
+    background-color: #f1f1f1;
+    width: 450px;
+    padding: 25px;
+}
