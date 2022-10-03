@@ -1,6 +1,6 @@
 # Awesome Blog Post
 
-## Description
+## DESCRIPTION
 
 Building a static blog page fro scratch.
 
